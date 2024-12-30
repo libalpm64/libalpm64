@@ -66,5 +66,6 @@
 ---
 
 <h2 align="left">GitHub Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=libalpm64&show_icons=true&locale=en&layout=compact" alt="libalpm64" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=libalpm64&show_icons=true&locale=en" alt="libalpm64" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=libalpm64&show_icons=true&locale=en&layout=compact" alt="libalpm64" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=libalpm64&show_icons=true&locale=en" alt="libalpm64" width="400" /></p>
+
