@@ -53,7 +53,7 @@
 ---
 <h2 align="left">Certifications</h2>
 <p align="left">
-  <img src="https://images.credly.com/size/100x100/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" alt="CCNA Logo" title="CCNA" style="vertical-align:middle; margin-right:10px; width:75px; height:75px;">
+  <img src="https://raw.githubusercontent.com/libalpm64/libalpm64/refs/heads/main/unnamed.png" alt="CCNA Logo" title="CCNA" style="vertical-align:middle; margin-right:10px; width:75px; height:75px;">
   <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/d37cd1b7-ce71-45ab-b33d-da7f8ce2a5e2.png?response-content-disposition=inline" alt="JNCIA Logo" title="JNCIA" style="vertical-align:middle; margin-right:10px; width:74px; height:75px;">
   <img src="https://images.credly.com/size/340x340/images/115e08d1-6b0c-40b2-aa15-5906022f4db0/L_01_asso_JNCIA-Junos.png" alt="JNCIA" title="JNCIA" style="vertical-align:middle; margin-right:10px; width:75px; height:75px;">
   <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/siteicons/logonetworkplus.svg?sfvrsn=c1041be7_2" alt="Net+ Logo" title="Net+" style="vertical-align:middle; margin-right:10px; width:75px; height:75px;">
